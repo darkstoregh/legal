@@ -115,4 +115,4 @@ Please read these Terms of Service (the “**Terms**”) and our [Privacy Policy
 
     (d) __Waiver of Rights__. Darkstore’s failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Darkstore. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
 
-18. **Contact Information.** If you have any questions about these Terms or the Services, please contact Darkstore at [support@fastaf.com].
+18. **Contact Information.** If you have any questions about these Terms or the Services, please contact Darkstore at [<support@fastaf.com>].
