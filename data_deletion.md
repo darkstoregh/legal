@@ -1,4 +1,4 @@
-# **Darkstore Data Deletion Instructions **
+# Darkstore Data Deletion Instructions
 
 ## **Effective Date:** June 09, 2021
 
