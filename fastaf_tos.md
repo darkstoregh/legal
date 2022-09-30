@@ -1,6 +1,6 @@
-**Terms of Service**
+# Terms of Service
 
-**Last Updated:** 9/27/2022
+# Last Updated: 9/27/2022
 
 Please read these Terms of Service (the “Terms”) and our Privacy Policy (“Privacy Policy”) carefully because they govern your use of FastAF Technologies, Inc. (“FastAF”)’s mobile application (“App”) and the purchase of any product offered for sale by FastAF via the App (each such product, a “Product”). To make these Terms easier to read, the App and our online store are collectively called the “Services.”
 
