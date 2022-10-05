@@ -2,7 +2,7 @@
 
 # Last Updated: 9/27/2022
 
-Please read these Terms of Service (the “Terms”) and our Privacy Policy (“Privacy Policy”) carefully because they govern your use of FastAF Technologies, Inc. (“FastAF”)’s mobile application (“App”) and the purchase of any product offered for sale by FastAF via the App (each such product, a “Product”). To make these Terms easier to read, the App and our online store are collectively called the “Services.”
+Please read these Terms of Service (the “Terms”) and our [Privacy Policy](https://tos.fastaf.com/fastaf_privacy) (“Privacy Policy”) carefully because they govern your use of FastAF Technologies, Inc. (“FastAF”)’s mobile application (“App”) and the purchase of any product offered for sale by FastAF via the App (each such product, a “Product”). To make these Terms easier to read, the App and our online store are collectively called the “Services.”
 
 IMPORTANT NOTICE REGARDING ARBITRATION: WHEN YOU AGREE TO THESE TERMS YOU ARE AGREEING (WITH LIMITED EXCEPTION) TO RESOLVE ANY DISPUTE BETWEEN YOU AND FASTAF THROUGH BINDING, INDIVIDUAL ARBITRATION RATHER THAN IN COURT. PLEASE REVIEW CAREFULLY SECTION 16 “DISPUTE RESOLUTION” BELOW FOR DETAILS REGARDING ARBITRATION.
 
